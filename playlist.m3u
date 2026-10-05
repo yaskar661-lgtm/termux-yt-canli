@@ -65,5 +65,7 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/yesilcam_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png" group-title="Dini",Vav TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/vav_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png" group-title="Ekonomi",A Para
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_para.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MDuymaz/yedekhesap/refs/heads/master/kanallogolari/anews.png" group-title="Haber",A News
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_news.m3u8
