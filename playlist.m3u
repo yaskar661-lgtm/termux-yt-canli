@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/KRT_TV_logo.png" group-title="Haber",KRT TV
-https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/krt_tv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_7UzbLRUPTG9PwZcMc042TV5TcOt8aPWBGqYfOQ56VlvJyGmog16BCv__H2ChJGcPaLr0fQ54rg=s160-c-k-c0x00ffffff-no-rj" group-title="Çocuk",Diyanet Çocuk
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/diyanet_cocuk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/TRT_Haber_logo.png" group-title="Haber",TRT Haber
