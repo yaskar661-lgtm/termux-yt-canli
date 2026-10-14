@@ -11,8 +11,6 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/A_Haber_logo.png" group-title="Haber",A Haber
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_haber.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Haberturk_TV_logo.png" group-title="Haber",Haber Turk
-https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/haber_turk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Halk_TV_logo.png" group-title="Haber",Halk TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/halk_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sozcu_TV_logo.png" group-title="Haber",Sozcu TV
@@ -25,6 +23,8 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/haber_global.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV100_logo.png" group-title="Haber",TV 100
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/tv_100.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/u7W_zTezWfYi6zwkO9et9XLITXUXsb636AhT36NuqVDoutG08Rdy9uoNmchMcuC7wNbjP89oBQ=s160-c-k-c0x00ffffff-no-rj" group-title="Haber",Akit TV
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/akit_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bloomberg_HT_logo.png" group-title="Ekonomi",Bloomberg HT
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bloomberg_ht.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bengu_Turk_logo.png" group-title="Haber",Bengu Turk
@@ -35,6 +35,8 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/ulusal_kanal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Ulke_TV_logo.png" group-title="Haber",Ulke TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/ulke_tv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zP1Fik1Cu0Cx7gU0ZR5vhsrzundUZnK0j1fXe38YKsd-R5ptibDxs5hcf0FTT8igp83uhKSG8w=s160-c-k-c0x00ffffff-no-rj" group-title="Ekonomi",Business Channel Turk
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/business_channel_turk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Ekoturk_logo.png" group-title="Ekonomi",Eko Turk
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/eko_turk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/24_TV_logo.png" group-title="Haber",24 TV
