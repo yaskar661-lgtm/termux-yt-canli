@@ -29,6 +29,8 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bloomberg_ht.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bengu_Turk_logo.png" group-title="Haber",Bengu Turk
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bengu_turk.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hEdMZOymqY6i6DFagM0SFNWD7gi4bskhDQPg5eYPlhIj8eiABZo8Gc_KSSP6cw6ml9zpKdZqRQ=s160-c-k-c0x00ffffff-no-rj" group-title="Yaşam/Ev",Bizimev TV
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bizimev_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ulusal_Kanal_logo.png" group-title="Haber",Ulusal Kanal
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/ulusal_kanal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Ulke_TV_logo.png" group-title="Haber",Ulke TV
@@ -63,8 +65,6 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/vav_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png" group-title="Ekonomi",A Para
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_para.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MDuymaz/yedekhesap/refs/heads/master/kanallogolari/anews.png" group-title="Haber",A News
-https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_news.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/1dOGS5D_iA4Z.png" group-title="Spor",Yaristayiz TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/yaristayiz_tv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/f-jhhxUz7qpLzdrw8IOW4vHgJJcB2UzPRgPzlCV2m936A1MmzmDdhBASltfKu0RnqRd4PO08IQ=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Yaristayiz TV Yurt Disi
