@@ -43,10 +43,14 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_spor.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HT_Spor_logo.png" group-title="Spor",HT Spor
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/ht_spor.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TVNET_logo.png" group-title="Haber",TV Net
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/tv_net.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/BeIN_Sports_Haber_logo.png" group-title="Spor",Bein Spor Haber
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bein_spor_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/CNBC-e_2024_logo.png" group-title="Genel",CNBC-e
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/cnbce.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fhdpVOM2xxgzdMRq6zBV3_vrvoijGDZdY1gLxMGcfBApvHWpdSjZanms4ZPKww9IkXflJriH=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",COP31 Türkiye
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/cop31_turkiye.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TWSgLJEkOPBFXWbyqzBuG0-EeXmhVXUKHEoRn3GnJ_WkJeknuh2Q9MJrLAC6k_-YKb4HeslA=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",TGRT Belgesel
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/tgrt_belgesel.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fy0PJubhEPuGgyBMUcO-dWVJzvHqZP6_x2G4Bzl_UC8dgAY503hdMvSTeYM041rHWZ38NJXO7g=s160-c-k-c0x00ffffff-no-rj" group-title="Filmler",Korku Filmleri TV
