@@ -25,6 +25,8 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/tv_100.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/u7W_zTezWfYi6zwkO9et9XLITXUXsb636AhT36NuqVDoutG08Rdy9uoNmchMcuC7wNbjP89oBQ=s160-c-k-c0x00ffffff-no-rj" group-title="Haber",Akit TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/akit_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bloomberg_HT_logo.png" group-title="Ekonomi",Bloomberg HT
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bloomberg_ht.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bengu_Turk_logo.png" group-title="Haber",Bengu Turk
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bengu_turk.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hEdMZOymqY6i6DFagM0SFNWD7gi4bskhDQPg5eYPlhIj8eiABZo8Gc_KSSP6cw6ml9zpKdZqRQ=s160-c-k-c0x00ffffff-no-rj" group-title="Yaşam/Ev",Bizimev TV
@@ -35,6 +37,8 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/ulke_tv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zP1Fik1Cu0Cx7gU0ZR5vhsrzundUZnK0j1fXe38YKsd-R5ptibDxs5hcf0FTT8igp83uhKSG8w=s160-c-k-c0x00ffffff-no-rj" group-title="Ekonomi",Business Channel Turk
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/business_channel_turk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Ekoturk_logo.png" group-title="Ekonomi",Eko Turk
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/eko_turk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/24_TV_logo.png" group-title="Haber",24 TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/24_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/A_Spor_logo.png" group-title="Spor",A Spor
@@ -47,6 +51,8 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bein_spor_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/CNBC-e_2024_logo.png" group-title="Genel",CNBC-e
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/cnbce.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fhdpVOM2xxgzdMRq6zBV3_vrvoijGDZdY1gLxMGcfBApvHWpdSjZanms4ZPKww9IkXflJriH=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",COP31 Türkiye
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/cop31_turkiye.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M2veFhhzFF_d8hI7xc7Z9CTZic9ucyKI2e_CsD6-q98EtD6BmmBT2VSrLWD9t9FLpc58GVgMGC0=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",Kanal 5
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/kanal_5.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QZYAsC3BOk7d7o6ob0B-UjroElbKiLtger5Dp066ivulXmpmRVqhIopyl-F2LRUn01jW0CXxVA=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",Paribu TV
