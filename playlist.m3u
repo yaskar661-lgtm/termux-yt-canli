@@ -51,6 +51,8 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bein_spor_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/CNBC-e_2024_logo.png" group-title="Genel",CNBC-e
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/cnbce.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fhdpVOM2xxgzdMRq6zBV3_vrvoijGDZdY1gLxMGcfBApvHWpdSjZanms4ZPKww9IkXflJriH=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",COP31 Türkiye
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/cop31_turkiye.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M2veFhhzFF_d8hI7xc7Z9CTZic9ucyKI2e_CsD6-q98EtD6BmmBT2VSrLWD9t9FLpc58GVgMGC0=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",Kanal 5
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/kanal_5.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QZYAsC3BOk7d7o6ob0B-UjroElbKiLtger5Dp066ivulXmpmRVqhIopyl-F2LRUn01jW0CXxVA=s160-c-k-c0x00ffffff-no-rj" group-title="Genel",Paribu TV
